@@ -1,0 +1,30 @@
+p {
+  font-size: 70px;
+  text-align: center;
+}
+button {
+  margin: 0 auto;
+  display: block;
+  font-size: 50px;
+  color: deeppink;
+  text-decoration: wavy;
+  box-shadow: blue;
+}
+h1 {
+  text-align: center;
+  color: darkmagenta;
+}
+img {
+  border-radius: 20px;
+  width: 20%;
+  margin-right: auto;
+  margin-left: auto;
+  display: block;
+}
+.output {
+  margin: 0 auto;
+  display: block;
+  text-align: center;
+  color: darkgreen;
+  font-size: 40px;
+}
